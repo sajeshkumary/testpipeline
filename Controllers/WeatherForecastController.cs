@@ -8,7 +8,7 @@ namespace TestPipeline.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "CMSFreezing", "CMSBracing", "CMSChilly", "CMSCool", "CMSMild", "CMSWarm", "CMSBalmy", "CMSHot", "CMSSweltering", "CMSScorching"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
