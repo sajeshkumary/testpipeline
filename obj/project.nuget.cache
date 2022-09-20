@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5c0wVKqlyB6IoDIr8wSTAF/wHKa4numgHTbA93rWjd0o/PDeBSLZUhpj3I293hnnkas4Vsdo5h0hDc4FeuwdKw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Training\\AzureNetCore\\TestPipeline\\TestPipeline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sajesh Kumar Y\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Sajesh Kumar Y\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Sajesh Kumar Y\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Sajesh Kumar Y\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Sajesh Kumar Y\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Sajesh Kumar Y\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
